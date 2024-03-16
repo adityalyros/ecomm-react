@@ -45,7 +45,7 @@ export default function Cart() {
           <div className="Cart-div-left">
             <table className="Cart-table">
               <tr>
-                <th>Item</th>
+                <th>name</th>
                 <th>Price</th>
                 <th>Quantity</th>
                 <th>Total</th>
